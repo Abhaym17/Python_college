@@ -1,0 +1,20 @@
+<html> 
+<head>
+    <titel>REGISTRATION Form </titel>
+  </head> 
+
+<bodybg color ="aqua"> 
+<h1><center> REGISTRATION FROM </center> </h1>
+<form name="frmREGISTRATION" action="form.html">
+<center>
+<table border="0"> 
+  <tr> 
+      <td width="20%> First Name</td>  
+      <td width="5%>&nbsp;</td>  
+      <td> <input type="textbox" name="txFirst Name"> </td> 
+</tr> 
+
+<tr> 
+      <td> Middle Name</td> 
+      <td> &nbsp;</td> 
+      <td> <input type="textbox" name="txMiddle Name"> </td> 
